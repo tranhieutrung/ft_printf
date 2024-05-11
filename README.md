@@ -41,7 +41,7 @@ The ft_printf function is designed to handle various format specifiers and conve
 
 %%: Prints a percent sign.
 
-Result
+## Result
 Actual Status : finished.
 
 <img width="1914" src="https://github.com/tranhieutrung/images/blob/main/printf_result.png">
