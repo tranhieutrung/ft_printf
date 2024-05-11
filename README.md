@@ -46,8 +46,8 @@ Actual Status : finished.
 
 <img width="1914" src="https://github.com/tranhieutrung/images/blob/main/printf_result.png">
 
-Contribution
+## Contribution
 If you'd like to contribute to the project, please create a pull request on GitHub. Please adhere to the contribution guidelines outlined in the CONTRIBUTING.md file.
 
-License
+## License
 This project is distributed under the MIT License.
