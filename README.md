@@ -4,22 +4,25 @@ This project aims to recreate the functionality of the printf function from the 
 
 ## File Structure
 
-├── Makefile
-├── includes
-│   ├── ft_printf.h
-│   └── libft.h
-├── libft
-│   ├── Makefile
-│   ├── ft_strchr.c
-│   └── ft_strlen.c
-└── srcs
-    ├── ft_printf.c
-    ├── ft_putchar.c
-    ├── ft_putaddr.c
-    ├── ft_putbase.c
-    ├── ft_putnbr.c
-    ├── ft_putuint.c
-    └── ft_puthexa.c
+Makefile
+
+includes:
+    ft_printf.h
+    libft.h
+
+libft:
+    Makefile
+    ft_strchr.c
+    ft_strlen.c
+
+srcs:
+    ft_printf.c
+    ft_putchar.c
+    ft_putaddr.c
+    ft_putbase.c
+    ft_putnbr.c
+    ft_putuint.c
+    ft_puthexa.c
 
 ## Functionality
 The ft_printf function is designed to handle various format specifiers and conversion characters to produce formatted output. The following conversions are implemented:
