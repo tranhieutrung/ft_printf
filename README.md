@@ -44,7 +44,7 @@ The ft_printf function is designed to handle various format specifiers and conve
 ## Result
 Actual Status : finished.
 
-<img width="1914" src="https://github.com/tranhieutrung/images/blob/main/printf_result.png">
+<img width="1914" src="https://github.com/tranhieutrung/ft_printf/blob/main/printf_result.png">
 
 ## Contribution
 If you'd like to contribute to the project, please create a pull request on GitHub. Please adhere to the contribution guidelines outlined in the CONTRIBUTING.md file.
